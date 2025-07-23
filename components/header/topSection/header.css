@@ -1,0 +1,11 @@
+@media (max-width: 760px) {
+    /* .header-container {
+      flex-direction: column;
+    } */
+    .header-div {
+      display: none;
+    }
+    .header-div.visible {
+      display: block;
+    }
+  }

@@ -1,0 +1,33 @@
+ 
+ .search__field {
+    display: flex;
+    align-items: center;
+}
+/* .ggg{
+    padding-top: 15px;
+    gap: 15px;
+    overflow: hidden;
+    overflow-x: auto;
+} */
+.one img{
+    width: 100%; 
+    /* height: 100%; */
+    height: 150px;
+    
+}
+.imgcard{
+    width: 300px;
+    height: 400px;
+}
+.one{
+    overflow-x: auto;
+    overflow-y: hidden;
+}
+.box{
+    min-width: 130px;
+    height: 230px;
+    /* background-color: orange; */
+}
+
+
+ 
